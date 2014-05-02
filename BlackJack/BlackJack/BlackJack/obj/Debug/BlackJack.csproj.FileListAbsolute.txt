@@ -1,9 +1,0 @@
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.BlackJack.resources
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.Properties.Resources.resources
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.GenerateResource.Cache
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
-C:\Users\kenny\Desktop\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
