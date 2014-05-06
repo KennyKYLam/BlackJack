@@ -47,27 +47,27 @@ namespace BlackJack
             int cardsum = 0;
             switch (card){
                 case 1://SpadeA
-                    cardface.ImageLocation = @"C:\\Users\\kenny\\Documents\\Visual Studio 2013\\Projects\\WindowsFormsApplication1\\WindowsFormsApplication1\\bin\\card images\\spadeA.jpg"; 
+                    cardface.ImageLocation ="https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spadeA.jpg"; 
                     cardsum = 11;
                     return cardsum;
                 case 2://Spade2
-                    cardface.ImageLocation = @"C:\\Users\\kenny\\Documents\\Visual Studio 2013\\Projects\\WindowsFormsApplication1\\WindowsFormsApplication1\\bin\\card images\\spade2.jpg"; 
+                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade2.jpg; 
                     cardsum = 2;
                     return cardsum;
                 case 3://Spade3
-                    cardface.ImageLocation = @"C:\\Users\\kenny\\Documents\\Visual Studio 2013\\Projects\\WindowsFormsApplication1\\WindowsFormsApplication1\\bin\\card images\\spade3.jpg"; 
-                    cardsum = 3;
+                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade3.jpg"; 
+                    cardsum = 3
                     return cardsum;
                 case 4://Spade4
-                    cardface.ImageLocation = @"C:\\Users\\kenny\\Documents\\Visual Studio 2013\\Projects\\WindowsFormsApplication1\\WindowsFormsApplication1\\bin\\card images\\spade4.jpg"; 
+                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade4.jpg"; 
                     cardsum = 4;
                     return cardsum;
                 case 5://Spade5
-                    cardface.ImageLocation = @"C:\\Users\\kenny\\Documents\\Visual Studio 2013\\Projects\\WindowsFormsApplication1\\WindowsFormsApplication1\\bin\\card images\\spade5.jpg"; 
+                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade5.jpg"; 
                     cardsum = 5;
                     return cardsum;
                 case 6://Spade6
-                    cardface.ImageLocation = @"C:\\Users\\kenny\\Documents\\Visual Studio 2013\\Projects\\WindowsFormsApplication1\\WindowsFormsApplication1\\bin\\card images\\spade6.jpg"; 
+                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade6.jpg"; 
                     cardsum = 6;
                     return cardsum;
                 case 7://Spade7
