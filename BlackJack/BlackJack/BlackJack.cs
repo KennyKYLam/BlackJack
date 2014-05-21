@@ -51,7 +51,7 @@ namespace BlackJack
                     cardsum = 11;
                     return cardsum;
                 case 2://Spade2
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade2.jpg; 
+                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade2.jpg"; 
                     cardsum = 2;
                     return cardsum;
                 case 3://Spade3
