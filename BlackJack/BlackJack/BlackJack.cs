@@ -47,55 +47,55 @@ namespace BlackJack
             int cardsum = 0;
             switch (card){
                 case 1://SpadeA
-                    cardface.ImageLocation ="https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spadeA.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spadeA.jpg"; 
                     cardsum = 11;
                     return cardsum;
                 case 2://Spade2
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade2.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade2.jpg"; 
                     cardsum = 2;
                     return cardsum;
                 case 3://Spade3
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade3.jpg"; 
-                    cardsum = 3
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade3.jpg";
+                    cardsum = 3;
                     return cardsum;
                 case 4://Spade4
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade4.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade4.jpg"; 
                     cardsum = 4;
                     return cardsum;
                 case 5://Spade5
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade5.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade5.jpg"; 
                     cardsum = 5;
                     return cardsum;
                 case 6://Spade6
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade6.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade6.jpg"; 
                     cardsum = 6;
                     return cardsum;
                 case 7://Spade7
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade7.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade7.jpg"; 
                     cardsum = 7;
                     return cardsum;
                 case 8://Spade8
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade8.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade8.jpg"; 
                     cardsum = 8;
                     return cardsum;
                 case 9://Spade9
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade9.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade9.jpg"; 
                     cardsum = 9;
                     return cardsum;
                 case 10://Spade10
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spade10.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spade10.jpg"; 
                     cardsum = 10;
                     return cardsum;
                 case 11://SpadeJ
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spadeJ.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spadeJ.jpg"; 
                     cardsum = 10;
                     return cardsum;
                 case 12://SpadeQ
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spadeQ.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spadeQ.jpg"; 
                     cardsum = 10;
                     return cardsum;
                 case 13://SpadeK
-                    cardface.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/spadeK.jpg"; 
+                    cardface.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/spadeK.jpg"; 
                     cardsum = 10;
                     return cardsum;
                 default:
@@ -227,13 +227,13 @@ namespace BlackJack
         {
             messagebox.Text = "";
 
-            playercard1.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/cardback.jpg";
-            playercard2.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/cardback.jpg";
+            playercard1.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/cardback.jpg";
+            playercard2.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/cardback.jpg";
             playercard3.Image = null;
             playercard4.Image = null;
             playercard5.Image = null;
-            dealercard1.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/cardback.jpg";
-            dealercard2.ImageLocation = "https://github.com/KennyKYLam/BlackJack/blob/master/BlackJack/BlackJack/images/cardback.jpg";
+            dealercard1.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/cardback.jpg";
+            dealercard2.ImageLocation = "https://raw.githubusercontent.com/KennyKYLam/BlackJack/master/BlackJack/BlackJack/images/cardback.jpg";
             dealercard3.Image = null;
             dealercard4.Image = null;
             dealercard5.Image = null;
